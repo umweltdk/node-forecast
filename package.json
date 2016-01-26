@@ -1,0 +1,43 @@
+{
+  "name": "forecast-api",
+  "version": "0.0.0",
+  "description": "Forecast api wrapper",
+  "keywords": [
+    "harvest",
+    "forecast",
+    "forecast-api",
+    "forecastapp",
+    "schedule",
+    "projects",
+    "milestones"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "dependencies": {
+    "moment": "^2.8.1",
+    "object-assign": "^4.0.1",
+    "request": "^2.40.0"
+  },
+  "devDependencies": {
+    "dotenv": "^0.4.0",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/umweltdk/node-forecast-api#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umweltdk/node-forecast-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/umweltdk/node-forecast-api/issues"
+  },
+  "author": "digital@umwelt.dk",
+  "contributors": [{
+    "name": "Joshua Nielsen",
+    "email": "jdn@umwelt.dk",
+    "url": "https://github.com/jdpnielsen"
+  }]
+}
