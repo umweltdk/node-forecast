@@ -1,5 +1,5 @@
 {
-  "name": "forecast-api",
+  "name": "node-forecast",
   "version": "0.0.1",
   "description": "Forecast api wrapper",
   "keywords": [
@@ -26,13 +26,13 @@
     "should": "^4.0.4"
   },
   "license": "MIT",
-  "homepage": "https://github.com/umweltdk/node-forecast-api#readme",
+  "homepage": "https://github.com/umweltdk/node-forecast#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/umweltdk/node-forecast-api.git"
+    "url": "git+https://github.com/umweltdk/node-forecast.git"
   },
   "bugs": {
-    "url": "https://github.com/umweltdk/node-forecast-api/issues"
+    "url": "https://github.com/umweltdk/node-forecast/issues"
   },
   "author": "digital@umwelt.dk",
   "contributors": [{
